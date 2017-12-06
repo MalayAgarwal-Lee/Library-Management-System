@@ -11,5 +11,8 @@ Note: Before running this application, make sure to fire up MySQL and create the
 4. purchases with the rows bookNo, bookName, noOfCopies, dateOfPurchase, type, costPerCopy, totalCost
 5. members with the rows memberNo, memberName, address, dob, phone
 
-That should get you going! Feedback is appreciated!
+
+Currently, I do not possess the knowledge for automating the creation of all the databases when the app is on a new machine and the set-up of the MySQL connection within the app on a new machine on which there is no MySQL connector. So, you'll have to take some pains to have the application up and running. 
+
+Feedback is appreciated!
 
